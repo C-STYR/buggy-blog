@@ -1,6 +1,3 @@
-# Canny Debugging Test
-
-Howdy Candidate, we've created this pared down version of Canny to get a better idea of your experience debugging web applications. Best of luck!
 
 ## Getting Started
 
@@ -72,12 +69,3 @@ For each of the following issues:
 
 **Customer 4:** When I page through posts, although the posts are changing, the vote count in the top left corner does not match the total count of votes of the displayed posts.
 
-
-## 🎉 You're Done 🎉
-
-Congrats on completing our assessment. All that is left for you to do is submit your assessment. We made a command that will zip your submission and send it to us. Send us an email to confirm that we got it.
-
-```sh
-npm run submit
-```
-# buggy-blog
